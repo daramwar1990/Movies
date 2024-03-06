@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "networkmodule",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daramwar1990/NetworkModule.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "25cb8e98da62ddcf460277e952afdf5ee6ceaf4b"
+      }
+    }
+  ],
+  "version" : 2
+}
